@@ -6,11 +6,8 @@
 <h3 align="left">Tech Stack</h3>
 <hr>
 <p align="left">high level</p>
-<span>
-  
-<img src="https://img.shields.io/badge/HTML-E34F26><img src="https://img.shields.io/badge/HTML-E34F26"><img src="https://img.shields.io/badge/HTML-E34F26"><img src="https://img.shields.io/badge/HTML-E34F26"><img src="https://img.shields.io/badge/HTML-E34F26">
+<img src="https://img.shields.io/badge/HTML-E34F26"><img src="https://img.shields.io/badge/HTML-E34F26"><img src="https://img.shields.io/badge/HTML-E34F26">
 <p align="left">middle level</p>
-</span>
 
 
 

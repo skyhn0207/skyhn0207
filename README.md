@@ -4,7 +4,7 @@
 
 
 <h3 align="left">Stack:</h3>
-<img src="https://img.shields.io/badge/just%20the%20message-8A2BE2">
+<img src="https://img.shields.io/badge/HTML-E34F26">
 
 
 <h3 align="left">Languages and Tools:</h3>

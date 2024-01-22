@@ -19,6 +19,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=React-Router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=Styled-Components&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)

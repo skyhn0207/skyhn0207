@@ -5,7 +5,7 @@
 
 <h3 align="left">Stack:</h3>
 <img src="https://img.shields.io/badge/HTML-E34F26">
-<img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=white">
 <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=React&logoColor=white">
 
 

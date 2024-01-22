@@ -3,7 +3,7 @@
 <h3 align="center">Front Developer.</h3>
 
 
-<h3 align="left">Stack:</h3
+<h3 align="left">Stack:</h3>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 

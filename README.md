@@ -24,6 +24,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 
+---
+
+<h3 align="left">📚 Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skyhn0207&show_icons=true&locale=en&layout=compact" alt="skyhn0207" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skyhn0207&show_icons=true&locale=en" alt="skyhn0207" /></p>

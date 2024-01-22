@@ -2,10 +2,9 @@
 <h1 align="center">Github Lee Ha Neul(이하늘)</h1>
 <h3 align="center">Front Developer.</h3>
 
+---
 
 <h3 align="left">🛠 Tech Stack</h3>
-
----
 
 <p align="left">high level</p>
 <img src="https://img.shields.io/badge/HTML-E34F26"><img src="https://img.shields.io/badge/HTML-E34F26"><img src="https://img.shields.io/badge/HTML-E34F26">

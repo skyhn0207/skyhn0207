@@ -5,11 +5,12 @@
 ---
 
 <h3 align="left">🛠 Tech Stack</h3>
-<p dir="auto"><span>I Can </span>
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+<p dir="auto"><span>I Can </span>
+
 
 <span>I Studying </span>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cc36f0bb6c4c413ad968a78ed48a323c930a098f69b6fec71028be56f2d950c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c6174266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/cc36f0bb6c4c413ad968a78ed48a323c930a098f69b6fec71028be56f2d950c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c6174266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=React&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;

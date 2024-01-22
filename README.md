@@ -5,9 +5,13 @@
 
 <h3 align="left">Tech Stack</h3>
 <hr>
+<p align="left">high level</p>
 <img src="https://img.shields.io/badge/HTML-E34F26">
-<img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=Html&logoColor=red">
-<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26">
+<img src="https://img.shields.io/badge/HTML-E34F26">
+<img src="https://img.shields.io/badge/HTML-E34F26">
+<img src="https://img.shields.io/badge/HTML-E34F26">
+<p align="left">middle level</p>
 
 
 

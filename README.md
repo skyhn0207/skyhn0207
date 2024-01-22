@@ -23,11 +23,9 @@
 <h1 align="center">Github Lee Ha Neul(이하늘)</h1>
 <h3 align="center">Front Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skyhn0207&label=Profile%20views&color=0e75b6&style=flat" alt="skyhn0207" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyhn0207" alt="skyhn0207" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/skyhn0207" target="blank"><img src="https://img.shields.io/twitter/follow/skyhn0207?logo=twitter&style=for-the-badge" alt="skyhn0207" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

@@ -1,28 +1,38 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=LeeHaNelu&fontSize=70&desc=FE&descAlign=50&descAlignY=70" style="width: 100%; height: auto;" />
+</p>
 
-<h1 align="center">Github Lee Ha Neul(이하늘)</h1>
-<h3 align="center">Front Developer.</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DCEF7&width=435&lines=Welcome+to+my+github+%3A)" alt="Typing SVG" /></a>
+</p>
+
+<!-- <h1 align="center">Github Lee Ha Neul(이하늘)</h1>
+<h3 align="center">Front Developer.</h3> -->
 
 ---
 
 <h3 align="left">🛠 Tech Stack</h3>
-<p dir="auto"><span>I Can </span>
+<!-- <p dir="auto"><span>I Can </span> -->
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=Sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
+<!--
 <span>I Studying </span>
+
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=Sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=React-Router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=Styled-Components&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white) -->
 
 ---
 

@@ -27,8 +27,9 @@
 ---
 
 <h3 align="left">📚 Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skyhn0207&show_icons=true&locale=en&theme=synthwave&layout=compact" alt="skyhn0207" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skyhn0207&show_icons=true&locale=en&theme=synthwave" alt="skyhn0207" /></p>
+<p><img style="height: 150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skyhn0207&show_icons=true&locale=en&theme=synthwave&layout=compact" alt="skyhn0207" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyhn0207&theme=synthwave" alt="skyhn0207" /></p>
+<p>&nbsp;<img style="height: 150px" align="center" src="https://github-readme-stats.vercel.app/api?username=skyhn0207&show_icons=true&locale=en&theme=synthwave" alt="skyhn0207" /></p>
+<!--
+<p style="display: none;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyhn0207&theme=synthwave" alt="skyhn0207" /></p>-->
